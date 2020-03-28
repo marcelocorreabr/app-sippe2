@@ -1,5 +1,5 @@
 {
-    "name":"Aplicação 2",
+    "label": "Aplicação 2",
     "description":"Descrição da aplicação 2",
-    "version":"1.2.3"
+    "tags": ["APLICACAO 2","TESTE"]
 }
